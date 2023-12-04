@@ -5,7 +5,7 @@ import clsx from "clsx"
 import { inter } from "./ui/fonts"
 
 export default function RootLayout({
-  children
+  children,
 }: {
   children: React.ReactNode
 }) {
