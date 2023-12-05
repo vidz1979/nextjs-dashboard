@@ -1,6 +1,5 @@
 import { Suspense } from "react"
 
-import { fetchInvoicesPages } from "@/app/lib/data"
 import { CreateButton } from "@/app/ui/button"
 import Table from "@/app/ui/clientes/table"
 import { lusitana } from "@/app/ui/fonts"
